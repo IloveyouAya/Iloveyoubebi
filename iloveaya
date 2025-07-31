@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Happy Girlfriend’s Day 💖</title>
+  <style>
+    body {
+      background: #ffe6f0;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      color: #d63384;
+      text-align: center;
+      padding: 50px;
+    }
+    .container {
+      background-color: rgba(255,255,255,0.9);
+      border-radius: 25px;
+      max-width: 800px;
+      margin: auto;
+      padding: 40px;
+      box-shadow: 0 0 20px #ff99cc;
+    }
+    h1 {
+      font-size: 3em;
+      color: #ff69b4;
+    }
+    .message {
+      font-size: 1.4em;
+      line-height: 1.6;
+      margin: 30px 0;
+      white-space: pre-wrap;
+    }
+    .chars img {
+      width: 150px;
+      margin: 10px;
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 1.1em;
+      color: #ff85a2;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="chars">
+      <img src="https://media.tenor.com/_X5g7T-tJZsAAAAi/mymelody-sanrio.gif" alt="My Melody">
+      <img src="https://media.tenor.com/V3hhGTVJ8RgAAAAi/cinnamoroll-sanrio.gif" alt="Cinnamoroll">
+    </div>
+    
+    <h1>National Girlfriend’s Day<br>August 1, 2025</h1>
+    
+    <div class="message">
+Hi bebi, I made this letter for you to show how much I love and appreciate you. No words can explain how much I love you. You mean everything to me my love, I just wish I could hold you right now and give you a warm hug with lots of kisses. I promise you that I will always be by your side ‘til the end of times.
+
+I love everything about you my love, starting with your beautiful hair — very soft and fragrant. Your lovely eyes that I can’t stop gazing into, because of your beauty. And your soft lips that I want to kiss 25/8 all the time. I will always love you now and forever; even if we live for a thousand years it’s always going to be you my love. I love you very much, Aya. Happy Girlfriend’s Day, my love!
+    </div>
+
+    <div class="footer">
+      With all my love,<br>
+      — Carl 💗
+    </div>
+  </div>
+
+</body>
+</html>
